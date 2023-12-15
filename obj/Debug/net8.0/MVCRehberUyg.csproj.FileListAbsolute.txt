@@ -28,3 +28,4 @@ C:\Users\acikh\OneDrive\Masaüstü\MVCRehberUyg\obj\Debug\net8.0\refint\MVCRehbe
 C:\Users\acikh\OneDrive\Masaüstü\MVCRehberUyg\obj\Debug\net8.0\MVCRehberUyg.pdb
 C:\Users\acikh\OneDrive\Masaüstü\MVCRehberUyg\obj\Debug\net8.0\MVCRehberUyg.genruntimeconfig.cache
 C:\Users\acikh\OneDrive\Masaüstü\MVCRehberUyg\obj\Debug\net8.0\ref\MVCRehberUyg.dll
+C:\Users\acikh\OneDrive\Masaüstü\MVCRehberUyg\obj\Debug\net8.0\MVCRehberUyg.sourcelink.json

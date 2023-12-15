@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0alp01213GwHNSA5rUFggUm6J/H5Zvdk5Igg2zhgHVk=",
+  "Hash": "SZjXpSRVC512K/HocgwzDEb3dCXcP/jMC8AR8BNNT5o=",
   "Source": "MVCRehberUyg",
   "BasePath": "_content/MVCRehberUyg",
   "Mode": "Default",
@@ -1252,12 +1252,12 @@
       "OriginalItemSpec": "wwwroot\\resimler\\body-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\ahmet.jpg",
+      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\ahmet.jpg",
       "SourceId": "MVCRehberUyg",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\",
       "BasePath": "_content/MVCRehberUyg",
-      "RelativePath": "resimler/personel/ahmet.jpg",
+      "RelativePath": "resimler/gorseller/ahmet.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1268,15 +1268,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resimler\\personel\\ahmet.jpg"
+      "OriginalItemSpec": "wwwroot\\resimler\\gorseller\\ahmet.jpg"
     },
     {
-      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\ayse.jpg",
+      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\ayse.jpg",
       "SourceId": "MVCRehberUyg",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\",
       "BasePath": "_content/MVCRehberUyg",
-      "RelativePath": "resimler/personel/ayse.jpg",
+      "RelativePath": "resimler/gorseller/ayse.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1287,15 +1287,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resimler\\personel\\ayse.jpg"
+      "OriginalItemSpec": "wwwroot\\resimler\\gorseller\\ayse.jpg"
     },
     {
-      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\fatma.jpg",
+      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\fatma.jpg",
       "SourceId": "MVCRehberUyg",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\",
       "BasePath": "_content/MVCRehberUyg",
-      "RelativePath": "resimler/personel/fatma.jpg",
+      "RelativePath": "resimler/gorseller/fatma.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resimler\\personel\\fatma.jpg"
+      "OriginalItemSpec": "wwwroot\\resimler\\gorseller\\fatma.jpg"
     },
     {
-      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\hasan.jpg",
+      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\hasan.jpg",
       "SourceId": "MVCRehberUyg",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\",
       "BasePath": "_content/MVCRehberUyg",
-      "RelativePath": "resimler/personel/hasan.jpg",
+      "RelativePath": "resimler/gorseller/hasan.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1325,15 +1325,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resimler\\personel\\hasan.jpg"
+      "OriginalItemSpec": "wwwroot\\resimler\\gorseller\\hasan.jpg"
     },
     {
-      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\hatice.jpg",
+      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\hatice.jpg",
       "SourceId": "MVCRehberUyg",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\",
       "BasePath": "_content/MVCRehberUyg",
-      "RelativePath": "resimler/personel/hatice.jpg",
+      "RelativePath": "resimler/gorseller/hatice.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1344,15 +1344,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resimler\\personel\\hatice.jpg"
+      "OriginalItemSpec": "wwwroot\\resimler\\gorseller\\hatice.jpg"
     },
     {
-      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\huseyin.jpg",
+      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\huseyin.jpg",
       "SourceId": "MVCRehberUyg",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\",
       "BasePath": "_content/MVCRehberUyg",
-      "RelativePath": "resimler/personel/huseyin.jpg",
+      "RelativePath": "resimler/gorseller/huseyin.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1363,15 +1363,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resimler\\personel\\huseyin.jpg"
+      "OriginalItemSpec": "wwwroot\\resimler\\gorseller\\huseyin.jpg"
     },
     {
-      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\mehmet.jpg",
+      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\mehmet.jpg",
       "SourceId": "MVCRehberUyg",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\",
       "BasePath": "_content/MVCRehberUyg",
-      "RelativePath": "resimler/personel/mehmet.jpg",
+      "RelativePath": "resimler/gorseller/mehmet.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1382,15 +1382,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resimler\\personel\\mehmet.jpg"
+      "OriginalItemSpec": "wwwroot\\resimler\\gorseller\\mehmet.jpg"
     },
     {
-      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\personel.jpg",
+      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\personel.jpg",
       "SourceId": "MVCRehberUyg",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\",
       "BasePath": "_content/MVCRehberUyg",
-      "RelativePath": "resimler/personel/personel.jpg",
+      "RelativePath": "resimler/gorseller/personel.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1401,15 +1401,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resimler\\personel\\personel.jpg"
+      "OriginalItemSpec": "wwwroot\\resimler\\gorseller\\personel.jpg"
     },
     {
-      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\zeynep.jpg",
+      "Identity": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\zeynep.jpg",
       "SourceId": "MVCRehberUyg",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\",
       "BasePath": "_content/MVCRehberUyg",
-      "RelativePath": "resimler/personel/zeynep.jpg",
+      "RelativePath": "resimler/gorseller/zeynep.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1420,7 +1420,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resimler\\personel\\zeynep.jpg"
+      "OriginalItemSpec": "wwwroot\\resimler\\gorseller\\zeynep.jpg"
     }
   ]
 }

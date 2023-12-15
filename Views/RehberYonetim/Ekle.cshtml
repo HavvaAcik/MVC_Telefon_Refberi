@@ -1,0 +1,39 @@
+@model Kisiler
+@{
+    ViewData["Title"] = "Ekleme Sayfası";
+}
+
+<hı>Kişi Ekleme Formu</h>
+
+<form asp-action="Ekle" method="post">
+    <p>
+        <label for="KisiNo">KisiNo</label>
+        <input type="number" asp-for="KisiNo" id="Kisino" class="form-control">
+    </p>
+
+     <p>
+        <label for="Ad">Ad</label>
+        <input type="text" asp-for="Ad" id="Ad" class="form-control">
+    </p>
+
+     <p>
+        <label for="Soyad">Soyad</label>
+        <input type="text" asp-for="Soyad" id="Soyad" class="form-control">
+    </p>
+
+     <p>
+        <label for="TelefonNo">TelefonNo</label>
+        <input type="number" asp-for="TelefonNo" id="TelefonNo" class="form-control">
+    </p>
+
+     <p>
+        <label for="Resim">Resim</label>
+        <input type="text" asp-for="Soyad" id="Soyad" class="form-control">
+    </p>
+
+    <p>
+        <input type="submit" value="Kaydet" class="btn btn-primary">
+    </p>
+
+
+</form>

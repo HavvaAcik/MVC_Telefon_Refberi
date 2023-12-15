@@ -1,0 +1,21 @@
+@model Kisiler
+@{
+    ViewData["Title"] = "Kisi Detayları";
+}
+
+<h1>Kişi Detayları</h1>
+<div class="card" style="width: 18rem;">
+  <img src="~/resimler/gorseller/@Model.Resim" class="card-img-top" alt="Kişi Resmi">
+  <div class="card-body">
+    <h5 class="card-title">@Model.Ad @Model.Soyad</h5>
+    <p class="card-text">
+        <strong>Kişi No:</strong> @Model.KisiNo
+    </p>
+
+    <p class="card-text">
+        <strong>Telefon Numarası:</strong> @Model.TelefonNo
+    </p>
+    
+    <a asp-controller="RehberYonetimi" asp-action="Index" class="btn btn-primary">Listeye Geri Dön</a>
+  </div>
+</div>

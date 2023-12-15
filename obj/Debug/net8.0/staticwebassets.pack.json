@@ -257,40 +257,40 @@
       "PackagePath": "staticwebassets\\resimler\\body-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\ahmet.jpg",
-      "PackagePath": "staticwebassets\\resimler\\personel\\ahmet.jpg"
+      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\ahmet.jpg",
+      "PackagePath": "staticwebassets\\resimler\\gorseller\\ahmet.jpg"
     },
     {
-      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\ayse.jpg",
-      "PackagePath": "staticwebassets\\resimler\\personel\\ayse.jpg"
+      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\ayse.jpg",
+      "PackagePath": "staticwebassets\\resimler\\gorseller\\ayse.jpg"
     },
     {
-      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\fatma.jpg",
-      "PackagePath": "staticwebassets\\resimler\\personel\\fatma.jpg"
+      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\fatma.jpg",
+      "PackagePath": "staticwebassets\\resimler\\gorseller\\fatma.jpg"
     },
     {
-      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\hasan.jpg",
-      "PackagePath": "staticwebassets\\resimler\\personel\\hasan.jpg"
+      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\hasan.jpg",
+      "PackagePath": "staticwebassets\\resimler\\gorseller\\hasan.jpg"
     },
     {
-      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\hatice.jpg",
-      "PackagePath": "staticwebassets\\resimler\\personel\\hatice.jpg"
+      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\hatice.jpg",
+      "PackagePath": "staticwebassets\\resimler\\gorseller\\hatice.jpg"
     },
     {
-      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\huseyin.jpg",
-      "PackagePath": "staticwebassets\\resimler\\personel\\huseyin.jpg"
+      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\huseyin.jpg",
+      "PackagePath": "staticwebassets\\resimler\\gorseller\\huseyin.jpg"
     },
     {
-      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\mehmet.jpg",
-      "PackagePath": "staticwebassets\\resimler\\personel\\mehmet.jpg"
+      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\mehmet.jpg",
+      "PackagePath": "staticwebassets\\resimler\\gorseller\\mehmet.jpg"
     },
     {
-      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\personel.jpg",
-      "PackagePath": "staticwebassets\\resimler\\personel\\personel.jpg"
+      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\personel.jpg",
+      "PackagePath": "staticwebassets\\resimler\\gorseller\\personel.jpg"
     },
     {
-      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\personel\\zeynep.jpg",
-      "PackagePath": "staticwebassets\\resimler\\personel\\zeynep.jpg"
+      "Id": "C:\\Users\\acikh\\OneDrive\\Masaüstü\\MVCRehberUyg\\wwwroot\\resimler\\gorseller\\zeynep.jpg",
+      "PackagePath": "staticwebassets\\resimler\\gorseller\\zeynep.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVCRehberUyg.Microsoft.AspNetCore.StaticWebAssets.props",
